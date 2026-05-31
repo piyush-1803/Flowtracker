@@ -1,0 +1,6 @@
+{
+  "name": "FlowTracker",
+  "description": "A modern Fluent-inspired desktop automatic productivity monitoring and active workspace time tracker catalogued dynamically by workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
